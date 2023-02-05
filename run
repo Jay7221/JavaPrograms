@@ -1,0 +1,3 @@
+source .env
+javac $CUR_FILE.java
+java $CUR_FILE

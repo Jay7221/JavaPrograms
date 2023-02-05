@@ -1,0 +1,3 @@
+source .env
+
+vi $CUR_FILE.java
